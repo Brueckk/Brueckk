@@ -1,12 +1,7 @@
-<img src="https://i.pximg.net/img-master/img/2023/07/23/20/14/53/110173825_p0_master1200.jpg" width="21%">
-
-
 <h1 align="center">Hi 👋, I'm Thomas Brueck</h1>
 <h3 align="center">A passionate Programmer from Colombia</h3>
 <p align="center">I am fascinated by innovation and continuous progress in IT. Since childhood I carry the passion which was born in an approach to cybersecurity, and currently, I am in a deep development in different fields as a student of software engineering.</p>
 <p align="center"> 
-<!--  <img src="https://img.shields.io/badge/Languages-Python | Java | PHP | Typescript | Node | React -green.svg" alt="supun nanayakkara's languages" /> -->
-<!--  <img alt="Profile followers" src="https://img.shields.io/github/followers/supuna97"> -->
 </p>
 
 <div align="center">
@@ -16,15 +11,6 @@
 </div>
 
 <br>
-
-<div align="center">
-  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="icon" width="50" height="50" />
-</div>
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 <br><br>
