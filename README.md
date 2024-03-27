@@ -1,4 +1,4 @@
-![logo](supun-new.png)
+![logo]([supun-new.png](https://i.pximg.net/img-master/img/2023/07/23/20/14/53/110173825_p0_master1200.jpg))
 <img align="left" src="https://i.pximg.net/img-master/img/2023/07/23/20/14/53/110173825_p0_master1200.jpg" width="21%" style="display:inline;">
 
 <h1 align="center">Hi 👋, I'm Thomas Brueck</h1>
