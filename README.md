@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently a software engineering student at **ICESI University**
 
-- 🌱 I’m currently learning Java and Design patterns
+- 🌱 I’m currently learning Design patterns in java
 
 - 💬 I'm constantly learning about anything
 
@@ -33,7 +33,7 @@
 - Backend
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,laravel,java,nodejs,py,spring,flask,fastapi,express,nestjs" />
+    <img src="https://skillicons.dev/icons?i=java,cpp,R" />
   </a>
 </p>
 
