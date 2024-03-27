@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning Design patterns in java
 
-- 💬 I'm constantly learning about anything
+- 💬 I'm constantly learning about everything
 
 - ⚡ A fun fact **Addictive competitive programming user**
 
@@ -48,13 +48,13 @@
 
 - Database
 <p align="left">
-    <strong>Learning...</strong>
+    Learning...
 </p>
 
 
 - Cloud Servers
 <p align="left">
-    <strong>Learning...</strong>
+    Learning...
 </p>
 
 
