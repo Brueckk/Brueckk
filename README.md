@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Thomas Brueck</h1>
+<h1 align="center">Hi, I'm Thomas Brueck</h1>
 <h3 align="center">Software Engineering</h3>
-<p align="center">I am fascinated by innovation and continuous progress in IT. Since childhood I carry the passion which was born in an approach to cybersecurity, and currently, I am in a deep development in different fields as a student of software engineering.</p>
+<p align="center">I am fascinated by innovation and continuous progress in IT. Since childhood I carry the passion which was born in an approach to cybersecurity, and currently, I am in a deep development in different fields as a student</p>
 <p align="center"> 
 </p>
 
@@ -72,9 +72,7 @@
 <h3 align="left">GitHub Stats:</h3>
 <div align="center">
  
-![Supun's GitHub stats](https://github-readme-stats.vercel.app/api?username=supuna97\&theme=midnight-purple\&show_icons=true\&show=reviews,prs_merged,prs_merged_percentage\&hide=contribs,issues)
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=supuna97&theme=midnight-purple)](https://git.io/streak-stats)
+<img alt="My stats" src="https://github-readme-stats.vercel.app/api?username=Brueckk&theme=radical&bg_color=000000&title_color=FF00FF&text_color=FF00FF&icon_color=FF00FF&border_color=00FFFF"/>
 
 </div>
 
@@ -83,4 +81,3 @@
 <img src="https://www.gifsanimados.org/data/media/562/linea-imagen-animada-0170.gif" height="2" width="100%">
 
 <br>
-<p align="right" > **Cya** </p>
