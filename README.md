@@ -46,16 +46,12 @@
 
 - Database
 <p align="left">
-  <a href="https://skillicons.dev">
     <strong>Learning...</strong>
-  </a>
 </p>
 
 - Cloud Servers
 <p align="left">
-  <a href="https://skillicons.dev">
     <strong>Learning...</strong>
-  </a>
 </p>
 
 - Tools
