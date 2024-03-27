@@ -1,18 +1,12 @@
 <h1 align="center">Hi 👋, I'm Thomas Brueck</h1>
-<h3 align="center">A passionate Programmer from Colombia</h3>
+<h3 align="center">currently a software engineering student</h3>
 <p align="center">I am fascinated by innovation and continuous progress in IT. Since childhood I carry the passion which was born in an approach to cybersecurity, and currently, I am in a deep development in different fields as a student of software engineering.</p>
 <p align="center"> 
 </p>
 
-<div align="center">
-  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="50" height="50" />
-</div>
-
 <br>
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<img align="right" alt="Coding" width="400" src="https://giffiles.alphacoders.com/354/35465.gif">
 <br><br>
 
 - 🔭 I’m currently working on **UA IT(JKH IT)**
