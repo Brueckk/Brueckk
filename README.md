@@ -7,8 +7,9 @@
 <br>
 
 <div style="display: flex; justify-content: flex-end;">
-    <img src="[imagen.jpg](https://giffiles.alphacoders.com/354/35465.gif)">
+    <img src="https://giffiles.alphacoders.com/354/35465.gif">
 </div>
+
 
 
 <br><br>
