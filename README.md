@@ -6,7 +6,7 @@
 
 <br>
 
-<div style="position: absolute; top: 50; right: 100;">
+<div style="position: absolute; top: 10px; right: 100px;">
     <img src="https://giffiles.alphacoders.com/354/35465.gif">
 </div>
 
