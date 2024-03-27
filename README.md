@@ -26,7 +26,7 @@
 </p>
 <br>
 
-<img src="https://www.gifsanimados.org/data/media/562/linea-imagen-animada-0170.gif" height="20" width="50%">
+<img src="https://www.gifsanimados.org/data/media/562/linea-imagen-animada-0170.gif" height="5" width="100%">
 
 <h3 align="left">Languages and Tools:</h3>
 
