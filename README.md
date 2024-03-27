@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Thomas Brueck</h1>
-<h3 align="center">software engineering</h3>
+<h3 align="center">Software Engineering</h3>
 <p align="center">I am fascinated by innovation and continuous progress in IT. Since childhood I carry the passion which was born in an approach to cybersecurity, and currently, I am in a deep development in different fields as a student of software engineering.</p>
 <p align="center"> 
 </p>
