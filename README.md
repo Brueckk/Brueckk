@@ -48,7 +48,6 @@
 <p align="left">
   <a href="https://skillicons.dev">
     <strong>Learning...</strong>
-    <img src="https://skillicons.dev/icons?i=" />
   </a>
 </p>
 
@@ -56,14 +55,13 @@
 <p align="left">
   <a href="https://skillicons.dev">
     <strong>Learning...</strong>
-    <img src="https://skillicons.dev/icons?i=" />
   </a>
 </p>
 
 - Tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,docker,figma,xd,idea,vscode,postman,linux" />
+    <img src="https://skillicons.dev/icons?i=git,github,figma,idea,vscode,linux,neovim" />
   </a>
 </p>
 
