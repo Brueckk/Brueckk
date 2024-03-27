@@ -77,7 +77,3 @@
 </div>
 
 <br><br>
-
-<img src="https://www.gifsanimados.org/data/media/562/linea-imagen-animada-0170.gif" height="2" width="100%">
-
-<br>
