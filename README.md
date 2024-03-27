@@ -6,10 +6,7 @@
 
 <br>
 
-<div style="position: absolute; top: 10px; right: 100px;">
-    <img src="https://giffiles.alphacoders.com/354/35465.gif">
-</div>
-
+<img align="right" alt="Coding" width="400" src="https://giffiles.alphacoders.com/354/35465.gif">
 
 <br><br>
 
