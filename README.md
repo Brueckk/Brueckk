@@ -22,13 +22,11 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/thomas-brueck-46232a271/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Thomas Brueck" height="30" width="40" /></a>
-
 <a href="https://www.instagram.com/tbrueck.13/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tbrueck.13" height="30" width="40" /></a>
-
 </p>
 <br>
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+<img src="https://www.gifsanimados.org/data/media/562/linea-imagen-animada-0170.gif" height="20" width="100%">
 
 <h3 align="left">Languages and Tools:</h3>
 
