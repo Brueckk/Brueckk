@@ -37,6 +37,7 @@
   </a>
 </p>
 
+
 - Frontend
 <p align="left">
   <a href="https://skillicons.dev">
@@ -44,15 +45,18 @@
   </a>
 </p>
 
+
 - Database
 <p align="left">
     <strong>Learning...</strong>
 </p>
 
+
 - Cloud Servers
 <p align="left">
     <strong>Learning...</strong>
 </p>
+
 
 - Tools
 <p align="left">
