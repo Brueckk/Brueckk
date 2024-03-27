@@ -6,10 +6,9 @@
 
 <br>
 
-<div style="display: flex; justify-content: flex-end;">
+<div style="position: absolute; top: 50px; left: 100px;">
     <img src="https://giffiles.alphacoders.com/354/35465.gif">
 </div>
-
 
 
 <br><br>
