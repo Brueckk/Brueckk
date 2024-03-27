@@ -6,7 +6,11 @@
 
 <br>
 
-<img align="center" alt="Coding" width="400" src="https://giffiles.alphacoders.com/354/35465.gif">
+<div style="display: flex; justify-content: flex-end;">
+    <img src="[imagen.jpg](https://giffiles.alphacoders.com/354/35465.gif)">
+</div>
+
+
 <br><br>
 
 - 🔭 I’m currently working on **UA IT(JKH IT)**
