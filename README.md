@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Thomas Brueck</h1>
-<h3 align="center">currently a software engineering student</h3>
+<h3 align="center">software engineering</h3>
 <p align="center">I am fascinated by innovation and continuous progress in IT. Since childhood I carry the passion which was born in an approach to cybersecurity, and currently, I am in a deep development in different fields as a student of software engineering.</p>
 <p align="center"> 
 </p>
@@ -26,7 +26,7 @@
 </p>
 <br>
 
-<img src="https://www.gifsanimados.org/data/media/562/linea-imagen-animada-0170.gif" height="5" width="100%">
+<img src="https://www.gifsanimados.org/data/media/562/linea-imagen-animada-0170.gif" height="2" width="100%">
 
 <h3 align="left">Languages and Tools:</h3>
 
