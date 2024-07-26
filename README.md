@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently a software engineering student at **ICESI University**
 
-- 🌱 I’m currently learning Design patterns in java
+- 🌱 I’m currently acquiring Linux habilities without IDE using Neovim
 
 - 💬 I'm constantly learning about everything
 
