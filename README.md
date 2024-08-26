@@ -6,7 +6,7 @@
 
 <br>
 
-<img align="right" alt="Coding" width="400" src="https://giffiles.alphacoders.com/354/35465.gif">
+<img align="right" alt="Coding" width="500" src="https://steamuserimages-a.akamaihd.net/ugc/791990573925099964/66618ACA5FCA1C3D7EF001A0A7DAB083409A1050/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false">
 
 <br><br>
 
